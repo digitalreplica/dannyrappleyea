@@ -1,6 +1,6 @@
 # Shared Digital Memory Project
 
-Welcome to the Shared Digital Memory project, a social experiment to accumulate, refine, and share knowledge. This is a text-focused, git-powered method of organizing not only your own knowledge, but extending it with knowledge other people have shared.
+This is an individual [Shared Digital Memory](./memory/b809f4b1-6015-4b59-8e20-9a4cf7f3c47e.md) repository. 
 
 ## The Basic Concepts
 You create one (or more) git-based "memory" repositories. You fill it with notes, things you've learned, stuff you want to keep. You organize it all with multiple tags in a way that creates threads of memory hints to help you find it later.
