@@ -3,4 +3,4 @@
 threads/
 .symlinks/
 symlinks/
-link-memories.py
+*.py
