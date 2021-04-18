@@ -1,14 +1,9 @@
-# Shared Digital Memory Project
+# Readme
 
-This is an individual [Shared Digital Memory](./memory/b809f4b1-6015-4b59-8e20-9a4cf7f3c47e.md) repository. 
+This is an individual [*SharedDigitalMemory*](./memory/b809f4b1-6015-4b59-8e20-9a4cf7f3c47e.md) repository, owned and operated by [*DigitalReplica*](), my [*IndividualLLC*]().
 
-## The Basic Concepts
-You create one (or more) git-based "memory" repositories. You fill it with notes, things you've learned, stuff you want to keep. You organize it all with multiple tags in a way that creates threads of memory hints to help you find it later.
+Read about [Me](./memory/a5d29381-fee2-449f-8093-1a02a643c6bc.md) or peruse my [Memory Threads](./threads/).
 
-You can keep a memory repository total private, share it with a few friends, or open it to the whole world.
-
-## Getting Started
-* Fork repo (or create your own.)
-
-## Rules
-* Never rename a memory file, because it will break anything linked to it
+## License
+![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Other licenses are available for a fee.
