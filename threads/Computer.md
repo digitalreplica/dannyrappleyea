@@ -9,6 +9,7 @@
 * [*Computer* Linux](../memory/5ecf084f-2761-4b2f-9cc0-6703a08f16ad.md)
 * [*Computer* Redis](../memory/8f9aaf6d-d6e4-4499-97a6-c759f4edc1ab.md)
 * [*Computer* AWS Cloudshell](../memory/969b2a05-0584-4f78-a49c-883e81a97fce.md)
+* [*Computer* jq](../memory/12f5fa1c-308a-49a4-9813-ec7e702f1eb5.md)
 * [*Computer* GraphQL](../memory/b9a0230c-dda8-4491-894c-ee6d5b04aa45.md)
 * [*Computer* Curl](../memory/1b1e4888-f87a-4f79-9486-c52545ac4c8d.md)
 * [*Computer* Raspberry Pi](../memory/d2233581-ef06-4c84-bb99-e0d3def5a0aa.md)

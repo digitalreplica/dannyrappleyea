@@ -44,6 +44,7 @@
 * [*Hacking* Malware analysis](../memory/361ae643-9f4a-4184-b24e-8747330e0763.md)
 * [*Hacking* Mitmproxy](../memory/b2a4f2c1-b56e-4247-8785-3a464556f8c4.md)
 * [*Hacking* *AWS* S3](../memory/4fbd28f2-4d0d-4e79-a5d2-69af3df8a6da.md)
+* [*Hacking* OpenAPI Swagger](../memory/825d5a98-798b-4b1d-82d3-2a36c75525db.md)
 * [*Hacking* Reverse Shells](../memory/e1089f15-bcea-4b04-877f-914fc65f03b4.md)
 * [*Hacking* Oclhashcat](../memory/3faa2f4b-4079-4a89-8f13-2cc392c4da4a.md)
 * [*Hacking* *Fire* *LLC*](../memory/3105d625-ff45-4a9b-b6a2-7ad8da655882.md)
