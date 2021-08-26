@@ -1,5 +1,0 @@
-# Hacking XSS
-
-## Pages
-* [*Hacking* *XSS*](../48a8676b-4ab0-4a57-b339-325b02477adb.md)
-* [*Hacking* *XSS* Writing Into DOM](../da417c12-b8b4-478a-88e2-e1d829fb862c.md)

@@ -9,4 +9,5 @@
 * [*Interests* Coffee](../113b0ddc-1f52-4b5e-82e2-b520347c77c3.md)
 * [*Interests* Aerial Silks and Sling](../cee9dc7b-9ec5-4564-84c8-0b72b781c19b.md)
 * [*Interests* Kayaking](../8e8e20a8-ab56-4b13-abe5-ab13eeb33e20.md)
+* [*Interests* Tai Chi](../ab8539e7-edc1-4f62-889a-d651de7a120f.md)
 * [*Interests* Sudoku](../0209ea19-4f3c-4efb-91d1-af9d903c3131.md)

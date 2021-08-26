@@ -15,5 +15,4 @@
 * [Patronage](./Patronage.md)
 * [Licenses](./Licenses.md)
 * [Howto](./Howto.md)
-* [HumanDigitalMemory](./HumanDigitalMemory.md)
 * [Games](./Games.md)

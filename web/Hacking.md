@@ -1,8 +1,6 @@
 # Hacking
 
 ## Subconcepts
-* [AWS](./AwsHacking.md)
-* [XSS](./HackingXss.md)
 * [LLC](./HackingLlc.md)
 
 ## Pages
@@ -18,11 +16,13 @@
 * [*Hacking* Smtp](../c77ed082-c90f-4d21-ab0b-b5f554d9f1da.md)
 * [*Hacking* Webfilter Proxy Cleansing](../54c94b7a-df26-45f2-98df-ccde9ba3f239.md)
 * [*Hacking* Postmessage](../db8e6531-e10e-4909-be3c-b82a1c485269.md)
+* [*Hacking* AWS](../4c909767-eda1-43e7-b3d5-c59d63893e4a.md)
 * [*Hacking* Sqlmap](../0fe49006-77ad-4bf9-a5c3-10d9bf70f77a.md)
 * [*Hacking* Browser Hacking](../990bed24-8974-44a7-8fa4-0dd0e382134e.md)
 * [*Hacking* SSRF](../290a1e3d-03b4-4cac-9b45-c81bb90b3687.md)
 * [*Hacking* HID RFID reader](../99a1c6a2-3dd9-4375-9779-43656f50de51.md)
 * [*Hacking* Kali](../def970dd-0907-481e-a6ae-c65b13030161.md)
+* [*Hacking* XSS](../48a8676b-4ab0-4a57-b339-325b02477adb.md)
 * [*Hacking* Configuring Firefox](../dc980edc-247f-46fd-a4eb-d78761a65da3.md)
 * [*Hacking* Wireless with Aircrack](../d56e26c9-5a56-4ebc-b707-cfd20110deab.md)
 * [*Hacking* NodeGoat](../3dfefcd2-455b-4f56-8633-78edace9a3b4.md)
@@ -33,13 +33,17 @@
 * [*Hacking* Rootabaga](../0bacdbbf-0a17-4011-b27e-26636f4eb8bc.md)
 * [*Hacking* Dns spoofing with dnsmasq](../e0ce29f7-9894-4339-ac43-4bdf4fd16c33.md)
 * [*Hacking* Identifying operating systems](../733d074a-e48f-479f-a37c-c00cc081729a.md)
+* [*Hacking* AWS Tokens](../c3ae24d2-45c2-48b6-9e30-c4fb2e9320b0.md)
 * [*Hacking* testssl.sh](../f67daa30-56da-4699-87da-492620f87af8.md)
 * [*Hacking* Bash](../de93ed89-e018-4a67-8a06-ff91f1268aeb.md)
 * [*Hacking* Exploit writing](../28ddc993-9920-47cb-8501-931feec98ec0.md)
 * [*Hacking* Burp extensions](../a23c8592-523e-4332-ac7e-b8f103130288.md)
 * [*Hacking* SAML](../b49824a8-f886-482f-b07e-fe92fca41c0d.md)
+* [*Hacking* Writing Into DOM](../da417c12-b8b4-478a-88e2-e1d829fb862c.md)
 * [*Hacking* Malware analysis](../361ae643-9f4a-4184-b24e-8747330e0763.md)
 * [*Hacking* Mitmproxy](../b2a4f2c1-b56e-4247-8785-3a464556f8c4.md)
+* [*Hacking* AWS Assume Role](../8dc69c60-e320-45be-be79-5048e7973893.md)
+* [*Hacking* AWS S3](../4fbd28f2-4d0d-4e79-a5d2-69af3df8a6da.md)
 * [*Hacking* OpenAPI Swagger](../825d5a98-798b-4b1d-82d3-2a36c75525db.md)
 * [*Hacking* Reverse Shells](../e1089f15-bcea-4b04-877f-914fc65f03b4.md)
 * [*Hacking* Oclhashcat](../3faa2f4b-4079-4a89-8f13-2cc392c4da4a.md)
